@@ -24,9 +24,9 @@ This project is a learning project and may be continuously improved.
 
 ## EDA
 Feature visualization: 
-![Image of features]("https://github.com/ciciecho-ds/salaryprediction/blob/master/feature.png")
+![Image of features](https://github.com/ciciecho-ds/salaryprediction/blob/master/feature.png)
 Correlation visualization:
-![Image of correlation]("https://github.com/ciciecho-ds/salaryprediction/blob/master/correlation.png")
+![Image of correlation](https://github.com/ciciecho-ds/salaryprediction/blob/master/correlation.png)
 
 Findings from EDA: 
 * There is a positive relationship between job type and salary.
@@ -36,8 +36,8 @@ Findings from EDA:
 * Years of experience has a positive relationship with salary and miles from metropolis has a negative relationship with salary.
 
 ## Featured Notebooks
-* [Salary Prediction Project EDA]("https://github.com/ciciecho-ds/salaryprediction/blob/master/Salary%20Prediction%20EDA.ipynb")
-* [Salary Prediction Project Modeling]("https://github.com/ciciecho-ds/salaryprediction/blob/master/Salary%20Prediction%20Project%20Models%20(final).ipynb")
+* [Salary Prediction Project EDA](https://github.com/ciciecho-ds/salaryprediction/blob/master/Salary%20Prediction%20EDA.ipynb)
+* [Salary Prediction Project Modeling](https://github.com/ciciecho-ds/salaryprediction/blob/master/Salary%20Prediction%20Project%20Models%20(final).ipynb)
 
 ## Contact
 * You may contact me at ciciechodu@gmail.com
